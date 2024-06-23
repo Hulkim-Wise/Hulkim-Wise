@@ -1,6 +1,6 @@
 # Welcome To Hulkim GitHUb
 ## Someone come from another world
-## to become someone in tech world
+### to become someone in tech world
 - 👋 Hi, I’m **@Hulkim-Wise**
 - 👀 I’m interested in explore and inspect ~~maybe not~~
 - 🌱 I’m currently learning **snake language**
